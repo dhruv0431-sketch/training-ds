@@ -20,7 +20,7 @@
 //       printf("%d",*(p+i));
 //  }
 
-// } 
+// } //way to print array elements using pointer
 
 
 // int main(){ 
@@ -73,3 +73,4 @@ int main(){
      int a=3; 
      printf
 }
+//
